@@ -1,5 +1,31 @@
-/* TEMPORARY BORDERS for layout */
-div {
-    border: 2px solid black;
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Limelight&family=Pompiere&family=Ribeye&display=swap');
+#body  {
     padding: 10px;
+    background: #48cae4;
+    font-family: Pompiere
+   
+}
+#section-1 {
+    background: radial-gradient(circle at 10% 20%, rgba(91, 173, 254, 0.46) 0%, rgba(91, 224, 254, 0.46) 47.2%, rgba(170, 254, 235, 0.43) 90%);
+}
+
+#section-2 {
+    background: #ade8f4;
+}
+
+#section-3 {
+    background: radial-gradient(circle at 10% 20%, rgba(91, 173, 254, 0.46) 0%, rgba(91, 224, 254, 0.46) 47.2%, rgba(170, 254, 235, 0.43) 90%);
+}
+
+#section-4 {
+    background: #caf0f8 
+}
+
+#section-5 {
+     background: radial-gradient(circle at 10% 20%, rgba(91, 173, 254, 0.46) 0%, rgba(91, 224, 254, 0.46) 47.2%, rgba(170, 254, 235, 0.43) 90%);
+}
+
+h1, h2, h3 {
+    font-family:Ribeye;
+
 }
