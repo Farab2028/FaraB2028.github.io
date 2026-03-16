@@ -29,3 +29,34 @@ h1, h2, h3 {
     font-family:Ribeye;
 
 }
+
+.my-color1 {
+    color: hotpink;
+}
+
+.my-color2 {
+    color: darkorange;
+}
+
+.my-color3 {
+    color: rgb(202, 202, 47);
+}
+
+.my-color4 {
+    color: red; 
+}
+
+.my-color5 {
+    color: darkgreen;
+}
+
+.my-color6 {
+    color: rgb(18, 150, 232);
+}
+
+#hero {
+    font-size: 80px;
+    color: #FFFFFF;
+background: #c2fff4;
+text-shadow: 4px 3px 0 #000000;
+}
